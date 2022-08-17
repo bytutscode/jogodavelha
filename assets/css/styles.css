@@ -176,6 +176,9 @@ footer a:hover {
         width: 300px;
         font-size: 15px;
     }
+    .player-turn {
+        font-size: 18px;
+    }
 }
 
 @media(max-width:320px){
